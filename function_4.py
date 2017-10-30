@@ -19,3 +19,5 @@ def test(char, expected_result):
 def main():
     test("a", True)
     test("b", False)
+
+main()
